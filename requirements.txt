@@ -9,6 +9,6 @@ scikit_learn==1.5.1
 sentence_transformers==3.0.1
 torch==2.2.2
 tqdm==4.66.4
-transformers==4.42.4
+transformers==5.10.1
 trl==0.9.6
 wandb==0.17.4
