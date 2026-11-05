@@ -7,7 +7,7 @@ PyPDF2==3.0.1
 Requests==2.32.3
 scikit_learn==1.5.1
 sentence_transformers==3.0.1
-torch==2.2.2
+torch==2.13.0
 tqdm==4.66.4
 transformers==4.42.4
 trl==0.9.6
